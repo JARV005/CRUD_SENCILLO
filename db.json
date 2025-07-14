@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "a829",
+      "email": "johanrivera@correo.com",
+      "password": "johan123"
+    }
+  ],
+  "products": [
+    {
+      "id": "11af",
+      "userId": "a829",
+      "nombre": "Computador Portatil",
+      "precio": "1234",
+      "categoria": "Electronicos",
+      "descripcion": "sdhgdh"
+    }
+  ]
+}
